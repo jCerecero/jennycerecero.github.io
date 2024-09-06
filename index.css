@@ -14,8 +14,8 @@ body {
 
 /* Logo de Google */
 .logo {
-    width: 472px;
-    height: 292px;
+    width: 772px;
+    height: 492px;
     margin-bottom: 20px;
 }
 
@@ -43,9 +43,9 @@ body {
 }
 
 .search-button, .lucky-button {
-    background-color: #f8f9fa;
+    background-color: #f0f2eb;
     border: 1px solid #dcdcdc;
-    border-radius: 4px;
+    border-radius: 14px;
     padding: 10px 20px;
     font-size: 14px;
     cursor: pointer;
@@ -54,9 +54,9 @@ body {
 }
 
 .search-button:hover, .lucky-button:hover {
-    background-color: #e8e8e8;
+    background-color: #eaf6f6;
 }
 
 .lucky-button {
-    background-color: #f8f9fa;
+    background-color: #dfebed;
 }
