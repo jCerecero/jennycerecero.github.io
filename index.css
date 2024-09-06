@@ -4,12 +4,12 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #f2f2f2;
+    background-color: #fffdfb;
 }
 
 /* Contenedor principal */
 .container {
-    margin-top: 100px;
+    margin-top: 300px;
 }
 
 /* Logo de Google */
@@ -21,7 +21,7 @@ body {
 
 /* Formulario de búsqueda */
 .search-form {
-    display: inline-block;
+    display: block;
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
